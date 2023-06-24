@@ -35,8 +35,6 @@ Data Analysis
 
 📫 How to reach me... LinkedIn link above
 
-😄 Pronouns... He/Him
-
 
 
 
