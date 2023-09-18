@@ -3,7 +3,7 @@
 
 
 ## 😃 About Me
-I'm a CSE-AI pre-final year student learning AI/ML and Data Science and Blockchain.
+I'm a CSE-AI Final year student learning AI/ML and Data Science.
 
 [![github](https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e474cyrik12gm54kxuk7nh4jjk8rs2rhmedd2y93hku&rid=giphy.gif&ct=g)](https://github.com/HeathKlifff)
 
